@@ -11,8 +11,8 @@ title: Blog
   {page.data.results.map((page) => (
     <a href={page.data.url}>
       <figure class="my-8">
-      <div class="flex justify-between flex-wrap mb-1 items-end">
-        <h2 class="text-3xl font-light text-primary">{page.data.title}</h2>
+        <div class="flex justify-between flex-wrap mb-1 items-end">
+          <h2 class="text-3xl font-light text-primary dark:text-primary-dark">{page.data.title}</h2>
             <span>
               {new Date(page.data.date).toLocaleDateString("de-DE", {
                 year: "numeric",
@@ -21,7 +21,7 @@ title: Blog
               })}
             </span>
           </div>
-        <div class="text-black border-solid border-2 border-gray-600 no-underline">
+        <div class="border-solid border-2 border-gray-600 dark:border-gray-400 no-underline">
           {page.data.imgUrl ? (
             <img class="w-full" src={page.data.imgUrl} />
           ) : null}

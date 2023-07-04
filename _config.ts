@@ -29,7 +29,9 @@ site
         colors: {
           ...colors,
           primary: colors.teal[700],
+          ["primary-dark"]: colors.teal[600],
           secondary: colors.gray[800],
+          ["secondary-dark"]: colors.gray[700],
         },
         fontFamily: {
           sans: ["Roboto", "sans-serif"],
@@ -60,7 +62,7 @@ site
   .copy("main.js")
   .remoteFile(
     "./code.css",
-    "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.6.0/build/styles/github.min.css",
+    "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.8.0/build/styles/github-dark.min.css",
   );
 
 export default site;

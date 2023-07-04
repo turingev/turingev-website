@@ -8,10 +8,10 @@ export default ({ ...props }) => (
       </nav>
     </header>
 
-    <div class="sticky top-0 backdrop-blur bg-primary/60 overflow-auto">
+    <div class="sticky top-0 backdrop-blur bg-primary/80 dark:bg-primary-dark/75 overflow-auto">
       <div class="flex container mx-auto px-4">
         <nav>
-          <ul class="flex text-white">
+          <ul class="flex text-white font-normal">
             <props.comp.HeaderMenuItems {...props} />
           </ul>
         </nav>

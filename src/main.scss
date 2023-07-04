@@ -9,14 +9,15 @@ html {
 
 body {
   line-height: 1.5;
-  letter-spacing: 0.7px;
+  letter-spacing: 0.06em;
   font-size: 1rem;
-  font-weight: 300;
-  background-color: #fff;
+  @apply font-light
+    bg-white text-gray-800
+    dark:bg-gray-800 dark:text-white;
 }
 
 main {
-  letter-spacing: 0.5px;
+  letter-spacing: 0.04em;
   font-size: 1.1rem;
 }
 
@@ -87,12 +88,12 @@ header {
 }
 
 .btn-primary {
-  @apply bg-primary;
+  @apply bg-primary dark:bg-primary-dark;
   color: #fff !important;
 }
 
 .btn-secondary {
-  @apply bg-secondary;
+  @apply bg-secondary dark:bg-secondary-dark;
   color: #fff !important;
 }
 

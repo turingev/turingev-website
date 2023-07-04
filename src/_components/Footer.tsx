@@ -1,5 +1,5 @@
 export default ({ search, site }) => (
-  <footer class="bg-secondary">
+  <footer class="bg-secondary dark:bg-secondary-dark">
     <div class="container mx-auto text-white px-8 py-4">
       <span class="copyright">
         {(new Date()).getFullYear()} {site.title}
