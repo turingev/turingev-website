@@ -8,7 +8,7 @@ menu:
 
 # Alan Turing
 
-![](/media/images/alanturing.jpg)
+![](/media/images/alanturing.webp)
 
 -
   23. Juni 1912 in London † 7. Juni 1954 in Wilmslow

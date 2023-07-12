@@ -14,4 +14,4 @@ Geldspenden auf unser Konto:
 
 Fördermitgliedschaft: <http://turingev.de/>
 
-![](/media/images/hand-g27374f4cf_1280.jpg)
+![](/media/images/hand-g27374f4cf_1280.webp)

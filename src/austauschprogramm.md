@@ -21,4 +21,4 @@ Ein Austauschprogramm führt nach Tschechien in das schöne Prag.
 Ein zweites Austauschprogramm wird gerade erstellt mit dem Europäischen
 Parlament, es wird nach Brüssel und Straßburg gehen.
 
-![](/media/images/prague-gdc275f391_1280.jpg)
+![](/media/images/prague-gdc275f391_1280.webp)

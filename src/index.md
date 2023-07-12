@@ -27,4 +27,4 @@ und Kooperationen mit unterschiedlichen Institutionen.
 Denn nur gemeinsam können wir die vor uns liegenden Möglichkeiten bestmöglich
 nutzen.
 
-![](/media/images/to-learn-gd33feff59_1280.jpg)
+![](/media/images/to-learn-gd33feff59_1280.webp)

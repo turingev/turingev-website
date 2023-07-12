@@ -8,4 +8,4 @@ menu:
 
 # Publikationen
 
-![](/media/images/tech-trends-g8b0f7bdd1_1280.jpg)
+![](/media/images/tech-trends-g8b0f7bdd1_1280.webp)

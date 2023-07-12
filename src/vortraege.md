@@ -19,4 +19,4 @@ Veranstaltung.
 Ob als aufweckender, virtueller Vortrag zum Tages-Auftakt oder lebendiger Impuls
 zum Schluss - Wir bereichern Ihren Event oder Ihr virtuelles Meeting.
 
-![](/media/images/lecture-g3ac5ad732_1280.jpg)
+![](/media/images/lecture-g3ac5ad732_1280.webp)
