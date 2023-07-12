@@ -1,7 +1,5 @@
 ---
 layout: Default.tsx
-title: Vorträge und Schulungen
+title: probe
 ---
 
-# Live und Online Keynotes für zielgerichtete Zukunftsimpulse
-Inspirierende Einblicke in Trendwelten und visionäre Ausblicke auf die Welt von morgen: Mit unseren Inspirationsformaten wird die Zukunft schon heute greifbar und interaktiv erlebbar. Profitieren Sie von passgenauen Zukunftsimpulsen unserer Vortragsredner und begeistern Sie ihre Mitarbeiter, Partner und Gäste auf Ihrer nächsten Veranstaltung. Ob als aufweckender, virtueller Vortrag zum Tages-Auftakt oder lebendiger Impuls zum Schluss - Wir bereichern Ihren Event oder Ihr virtuelles Meeting.
