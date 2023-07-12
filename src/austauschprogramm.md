@@ -17,6 +17,6 @@ Zusätzlich die persönliche Weiterentwicklung der Teilnehmer sowie der Versuch,
 
 Ein Austauschprogramm führt nach Tschechien in das schöne Prag.  
 
-Ein zweites Austauschprogramm wird gerade erstellt mit dem Europäischen Parlament, es wird nach Brüssel und Straßburg,  gehen.
+Ein zweites Austauschprogramm wird gerade erstellt mit dem Europäischen Parlament, es wird nach Brüssel und Straßburg gehen.
 
 ![](/media/images/prague-gdc275f391_1280.jpg)
