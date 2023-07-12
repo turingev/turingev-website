@@ -4,7 +4,6 @@ title: Start
 menu:
   header: true
 ---
-
 # Turing e.V.
 
 Der „Turing e. V.” ist ein gemeinnütziger Verein, der sich für eine umfassende Bildung im Bereich der Digitalisierung und für die Förderung unserer Demokratie einsetzt.
@@ -18,3 +17,7 @@ Als kompetenter Partner eröffnen wir allen Menschen die Möglichkeit, an den Ch
 In unserer Arbeit setzen wir auf die Zusammenarbeit mit der Zivilgesellschaft und Kooperationen mit unterschiedlichen Institutionen. 
 
 Denn nur gemeinsam können wir die vor uns liegenden Möglichkeiten bestmöglich nutzen.
+
+
+
+![](/media/images/to-learn-gd33feff59_1280.jpg)
