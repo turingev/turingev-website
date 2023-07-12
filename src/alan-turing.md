@@ -9,5 +9,4 @@ menu:
 
 \#﻿ Alan Turing
 
-* 23. Juni 1912 in London
-† 7. Juni 1954 in Wilmslow
+* 23. Juni 1912 in London  † 7. Juni 1954 in Wilmslow    
