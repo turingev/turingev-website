@@ -1,20 +1,17 @@
 ---
 layout: Default.tsx
-title: Lorem Ipsum
-date: 2023-07-04T19:15:55.927Z
+title: Hilfe für die Ukraine
+date: 2023-03-03T20:15:55.927Z
 blog: true
-excerpt: |-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Id consectetur purus ut faucibus
-  pulvinar elementum integer enim neque.
+excerpt: Generatoren für die Ukraine
 ---
-# Lorem Ipsum
+Der Turing e. V. konnte bereits 2 Generatoren (Stromerzeuger 400V dreiphasig GeoTech Pro GGP 8000-3 ES) samt Reperaturset kaufen und mithilfe einer Partnerorganisation in die Ukraine versenden. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Id consectetur purus ut faucibus
-pulvinar elementum integer enim neque. Auctor elit sed vulputate mi sit amet
-mauris. Tempus urna et pharetra pharetra massa massa ultricies mi. Nibh sed
-pulvinar proin gravida hendrerit lectus a. Urna nunc id cursus metus aliquam
-eleifend. Id faucibus nisl tincidunt eget nullam non nisi est sit.
+Die Generatoren wurden in Empfang genommen und werden dabei helfen, die Stromversorgung bei kriegsbedingten Stromausfällen aufrecht zu erhalten.
 
-A pellentesque sit amet porttitor eget dolor morbi non arcu. Nam at lectus urna duis. Ipsum consequat nisl vel pretium lectus quam id leo in. Eu sem integer vitae justo eget magna. Etiam erat velit scelerisque in dictum non consectetur a. Orci eu lobortis elementum nibh tellus molestie nunc non. Eleifend quam adipiscing vitae proin sagittis. Elementum nibh tellus molestie nunc.
+![](/media/images/generatoren.jpeg)
+
+![](/media/images/generator-ukraine.jpeg)
+
+\
+Derzeit wird eine weitere Hilfslieferung geplant, die – in bedarfsorientierter Rücksprache mit unseren Partner:innen vor Ort –  Powerbanks und Taschenlampen beinhalten soll.
