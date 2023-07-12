@@ -7,10 +7,6 @@ menu:
 ---
 E﻿s gibt zwei Möglichkeiten uns bei unserer Arbeit zu unterstützen: 
 
-
-
 G﻿eldspenden auf unser Konto:
 
-
-
-F﻿ördermitgliedschaft
+F﻿ördermitgliedschaft:  <http://turingev.de/>
