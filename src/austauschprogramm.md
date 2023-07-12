@@ -5,7 +5,7 @@ menu:
   header: true
   footer: false
 ---
-![](/media/images/eu-g183b3ccf4_1280.jpg)
+![]()
 
 ![]()
 
@@ -16,11 +16,5 @@ Ziel ist es Einblick in die Kultur und den politischen Bereich des Landes zu bek
 Zusätzlich die persönliche Weiterentwicklung der Teilnehmer sowie der Versuch, Europa und seine Vorteile direkt erfahrbar zu machen. 
 
 G﻿eplant sind ein Austausch mit Tschechien und dem EU Parlament in Brüssel und Straßburg.
-
-
-
-
-
-
 
 ![](/media/images/prague-gdc275f391_1280.jpg)
