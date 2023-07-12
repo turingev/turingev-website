@@ -5,14 +5,13 @@ menu:
   header: true
   footer: false
 ---
-![]()
 
-E﻿s gibt zwei Möglichkeiten uns bei unserer Arbeit zu unterstützen: 
+# Spenden
 
-G﻿eldspenden auf unser Konto:
+Es gibt zwei Möglichkeiten uns bei unserer Arbeit zu unterstützen:
 
-F﻿ördermitgliedschaft:  <http://turingev.de/>
+Geldspenden auf unser Konto:
 
-
+Fördermitgliedschaft: <http://turingev.de/>
 
 ![](/media/images/hand-g27374f4cf_1280.jpg)

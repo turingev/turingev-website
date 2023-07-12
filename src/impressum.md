@@ -5,12 +5,13 @@ menu:
   footer: true
   header: false
 ---
+
 # Impressum
 
 **Turing e.V.**\
-Pestitzer Weg \
+Pestitzer Weg\
 01217 Dresden
 
-**Telefon:** \
-**E-Mail:** \
+**Telefon:**\
+**E-Mail:**\
 **Internet:**

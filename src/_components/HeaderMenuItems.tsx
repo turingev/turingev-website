@@ -13,7 +13,10 @@ export default ({ search, ...props }) => (
       ...search.pages("menu.header=true"),
       ...pages,
     ].map((page) => {
-      const subpages = search.pages(`menu.header[${page.data.slug}]`, "date=desc");
+      const subpages = search.pages(
+        `menu.header[${page.data.slug}]`,
+        "date=desc",
+      );
       if (subpages.length > 0) {
         return (
           <li class="category dropdown">

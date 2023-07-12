@@ -2,7 +2,7 @@ export default ({ title, children, ...props }) => (
   <html lang="de">
     <head>
       <title>
-        {title ? `${title} - ${ props.site.title }` : props.site.title}
+        {title ? `${title} - ${props.site.title}` : props.site.title}
       </title>
       <meta charset="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -11,9 +11,7 @@ export default ({ title, children, ...props }) => (
       <meta name="publisher" content={props.site.title} />
       <meta
         name="description"
-        content={props.excerpt
-          ? props.excerpt
-          : props.site.description}
+        content={props.excerpt ? props.excerpt : props.site.description}
       />
 
       <link
