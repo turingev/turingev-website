@@ -15,6 +15,8 @@ Ziel ist es Einblick in die Kultur und den politischen Bereich des Landes zu bek
 
 Zusätzlich die persönliche Weiterentwicklung der Teilnehmer sowie der Versuch, Europa und seine Vorteile direkt erfahrbar zu machen. 
 
-G﻿eplant sind ein Austausch mit Tschechien und dem EU Parlament in Brüssel und Straßburg.
+Ein Austauschprogramm führt nach Tschechien in das schöne Prag.  
+
+Ein zweites Austauschprogramm wird gerade erstellt mit dem Europäischen Parlament, es wird nach Brüssel und Straßburg,  gehen.
 
 ![](/media/images/prague-gdc275f391_1280.jpg)
