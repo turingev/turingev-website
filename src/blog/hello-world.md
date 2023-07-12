@@ -4,7 +4,7 @@ tags:
   - blog
 title: Hello World!
 date: 2023-06-16T14:00:00.000Z
-blog: true
+blog: false
 excerpt: Short boilerplate example
 ---
 # Hello World!
