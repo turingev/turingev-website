@@ -2,7 +2,7 @@
 layout: Default.tsx
 title: Austauschprogramm
 menu:
-  header: false
+  header: true
   footer: false
 ---
 Das Turing Programm ist ein Austauschprogramm für Schüler und Studierende.  
