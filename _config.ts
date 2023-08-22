@@ -26,6 +26,12 @@ site
   .use(tailwindcss({
     options: {
       theme: {
+        screens: {
+          sm: "480px",
+          md: "720px",
+          lg: "920px",
+          xl: "1100px",
+        },
         colors: {
           ...colors,
           primary: colors.teal[700],

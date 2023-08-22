@@ -15,9 +15,7 @@ Partnerorganisation in die Ukraine versenden.
 Die Generatoren wurden in Empfang genommen und werden dabei helfen, die
 Stromversorgung bei kriegsbedingten Stromausfällen aufrecht zu erhalten.
 
-![](/media/images/generatoren.jpeg)
-
-![](/media/images/generator-ukraine.jpeg)
+![](/media/images/generatoren.jpeg) ![](/media/images/generator-ukraine.jpeg)
 
 Derzeit wird eine weitere Hilfslieferung geplant, die – in bedarfsorientierter
 Rücksprache mit unseren Partner:innen vor Ort –  Powerbanks und Taschenlampen
