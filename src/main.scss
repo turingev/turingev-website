@@ -97,6 +97,10 @@ header {
   color: #fff !important;
 }
 
+.input {
+  @apply bg-gray-800 border-white border-2 px-2 py-1 text-white;
+}
+
 .infoMenu {
   top: 6rem;
 }
@@ -168,10 +172,14 @@ header {
   }
 
   img {
-    @apply my-2;
+    @apply my-2 inline-flex ;
   }
 
   p {
+    @apply my-2;
+  }
+
+  hr {
     @apply my-2;
   }
 }

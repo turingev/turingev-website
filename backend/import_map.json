@@ -1,0 +1,11 @@
+{
+  "imports": {
+    "debug": "https://deno.land/x/debug/mod.ts",
+    "sqlite": "https://deno.land/x/sqlite/mod.ts",
+    "oak": "https://deno.land/x/oak/mod.ts",
+    "nunjucks": "https://deno.land/x/nunjucks@3.2.3/mod.js",
+    "crypto": "https://deno.land/std/crypto/mod.ts",
+    "assert": "https://deno.land/std@0.172.0/testing/asserts.ts",
+    "zod": "https://deno.land/x/zod/mod.ts"
+  }
+}

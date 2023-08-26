@@ -5,6 +5,7 @@ menu:
   header: true
   footer: false
 ---
+
 # Spenden
 
 Es gibt zwei Möglichkeiten uns bei unserer Arbeit zu unterstützen:
