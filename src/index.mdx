@@ -1,0 +1,59 @@
+---
+layout: Default.tsx
+title: Start
+menu:
+  header: true
+---
+
+# Aktuelles
+
+<div>
+  {search.pages("blog=true", "date=desc", 1).map((page) => (
+    <figure class="">
+      <div class="flex justify-between flex-wrap mb-1 items-end">
+        <h2 class="text-3xl font-light text-primary dark:text-primary-dark">
+          {page.data.title}
+        </h2>
+        <span>
+          {new Date(page.data.date).toLocaleDateString("de-DE", {
+            year: "numeric",
+            month: "long",
+            day: "numeric",
+          })}
+        </span>
+      </div>
+      <div class="border-solid border-2 border-gray-600 dark:border-gray-400 no-underline">
+        {page.data.imgUrl ? (
+          <img class="w-full" src={page.data.imgUrl} />
+        ) : null}
+        <div class="m-3">{page.data.excerpt}</div>
+      </div>
+    </figure>
+  ))}
+  <a class="btn btn-primary mt-2" href="/blog/page/1">Zum Blog</a>
+</div>
+
+<hr />
+
+# Über uns
+## Live und Online Keynotes für zielgerichtete Zukunftsimpulse
+
+<div class="flex flex-col md:flex-row flex-break">
+  <div>
+    Inspirierende Einblicke in Trendwelten und visionäre Ausblicke auf die Welt von
+    morgen: Mit unseren Inspirationsformaten wird die Zukunft schon heute greifbar
+    und interaktiv erlebbar.
+
+    Profitieren Sie von passgenauen Zukunftsimpulsen unserer Vortragsredner und
+    begeistern Sie ihre Mitarbeiter, Partner und Gäste auf Ihrer nächsten
+    Veranstaltung.
+
+    Ob als aufweckender, virtueller Vortrag zum Tages-Auftakt oder lebendiger Impuls
+    zum Schluss - Wir bereichern Ihren Event oder Ihr virtuelles Meeting.
+  </div>
+
+  ![](/media/images/lecture-g3ac5ad732_1280.webp)
+
+</div>
+
+<a class="btn btn-primary" href="/ueber-uns">Erfahre Mehr!</a>

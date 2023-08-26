@@ -2,7 +2,7 @@
 layout: Default.tsx
 title: Austauschprogramm
 menu:
-  header: true
+  header: false
   footer: false
 ---
 

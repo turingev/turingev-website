@@ -69,6 +69,14 @@ site
   .remoteFile(
     "./code.css",
     "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.8.0/build/styles/github-dark.min.css",
+  )
+  .remoteFile(
+    "./daisyui.css",
+    "https://cdn.jsdelivr.net/npm/daisyui@2.6.0/dist/full.css",
+  )
+  .remoteFile(
+    "./themes.css",
+    "https://cdn.jsdelivr.net/npm/daisyui@2.6.0/dist/themes.css",
   );
 
 export default site;

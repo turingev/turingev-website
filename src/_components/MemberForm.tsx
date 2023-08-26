@@ -156,7 +156,7 @@ export default () => {
           </div>
         </div>
 
-        <div class="flex items-start my-2 p-2 border">
+        <div class="flex items-start my-2 p-2 dark:border-white border-gray-400 border">
           <div class="p-3">
             <input type="checkbox" name="sepa" class="toggle" />
           </div>

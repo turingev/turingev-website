@@ -98,7 +98,7 @@ header {
 }
 
 .input {
-  @apply bg-gray-800 border-white border-2 px-2 py-1 text-white;
+  @apply bg-white dark:bg-gray-800 border-gray-400 dark:border-white border px-2 py-1 text-white;
 }
 
 .infoMenu {
@@ -172,7 +172,7 @@ header {
   }
 
   img {
-    @apply my-2 inline-flex ;
+    @apply my-2 inline-flex;
   }
 
   p {
