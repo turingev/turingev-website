@@ -1,4 +1,4 @@
-name: Build website
+name: Build and Deploy
 
 on:
   push:
@@ -36,3 +36,14 @@ jobs:
           file: Dockerfile
           push: true
           tags: "ghcr.io/${{ github.repository }}:latest"
+
+      # trigger rollout on stage
+      - name: Kubernetes context
+        uses: Azure/k8s-set-context@v1
+        with:
+          method: kubeconfig
+          kubeconfig: ${{ secrets.KUBE_CONFIG }}
+          namespace: default
+
+      - name: Deploy
+        run: kubectl rollout restart deployment turingev-website -n default
