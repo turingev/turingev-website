@@ -1,14 +1,17 @@
 ---
-layout: Default.tsx
+layout: Blog.tsx
 title: Start
 menu:
   header: true
 ---
 
-# Aktuelles
+<div data-markdown="true">
+  # Aktuelles
+</div>
 
-<div>
+<div data-markdown="false">
   {search.pages("blog=true", "date=desc", 1).map((page) => (
+    <a href={page.data.url}>
     <figure class="">
       <div class="flex justify-between flex-wrap mb-1 items-end">
         <h2 class="text-3xl font-light text-primary dark:text-primary-dark">
@@ -29,31 +32,35 @@ menu:
         <div class="m-3">{page.data.excerpt}</div>
       </div>
     </figure>
+    </a>
   ))}
   <a class="btn btn-primary mt-2" href="/blog/page/1">Zum Blog</a>
 </div>
 
-<hr />
+<div data-markdown="true">
+  ---
 
-# Über uns
-## Live und Online Keynotes für zielgerichtete Zukunftsimpulse
+  # Über uns
+  ## Live und Online Keynotes für zielgerichtete Zukunftsimpulse
 
-<div class="flex flex-col md:flex-row flex-break">
-  <div>
-    Inspirierende Einblicke in Trendwelten und visionäre Ausblicke auf die Welt von
-    morgen: Mit unseren Inspirationsformaten wird die Zukunft schon heute greifbar
-    und interaktiv erlebbar.
+  <div class="flex flex-col md:flex-row flex-break">
+    <div>
+      Inspirierende Einblicke in Trendwelten und visionäre Ausblicke auf die Welt von
+      morgen: Mit unseren Inspirationsformaten wird die Zukunft schon heute greifbar
+      und interaktiv erlebbar.
 
-    Profitieren Sie von passgenauen Zukunftsimpulsen unserer Vortragsredner und
-    begeistern Sie ihre Mitarbeiter, Partner und Gäste auf Ihrer nächsten
-    Veranstaltung.
+      Profitieren Sie von passgenauen Zukunftsimpulsen unserer Vortragsredner und
+      begeistern Sie ihre Mitarbeiter, Partner und Gäste auf Ihrer nächsten
+      Veranstaltung.
 
-    Ob als aufweckender, virtueller Vortrag zum Tages-Auftakt oder lebendiger Impuls
-    zum Schluss - Wir bereichern Ihren Event oder Ihr virtuelles Meeting.
+      Ob als aufweckender, virtueller Vortrag zum Tages-Auftakt oder lebendiger Impuls
+      zum Schluss - Wir bereichern Ihren Event oder Ihr virtuelles Meeting.
+    </div>
+
+    ![](/media/images/lecture-g3ac5ad732_1280.webp)
+
   </div>
 
-  ![](/media/images/lecture-g3ac5ad732_1280.webp)
+  <a class="btn btn-primary" href="/ueber-uns">Erfahre Mehr!</a>
 
 </div>
-
-<a class="btn btn-primary" href="/ueber-uns">Erfahre Mehr!</a>

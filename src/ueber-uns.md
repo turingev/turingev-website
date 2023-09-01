@@ -29,10 +29,10 @@ Denn nur gemeinsam können wir die vor uns liegenden Möglichkeiten bestmöglich
 nutzen.
 
 ## Wer war Alan Turing?
+
 23. Juni 1912 in London † 7. Juni 1954 in Wilmslow
 
 <https://de.wikipedia.org/wiki/Alan_Turing>
-
 
 ## Spenden
 
@@ -40,4 +40,5 @@ Es gibt zwei Möglichkeiten uns bei unserer Arbeit zu unterstützen:
 
 Geldspenden auf unser Konto: DE92 8505 0300 0221 2472 03
 
-<a class="btn btn-primary" href="/mitglied-werden">Jetzt Fördermitglied werden</a>
+<a class="btn btn-primary" href="/mitglied-werden">Jetzt Fördermitglied
+werden</a>
