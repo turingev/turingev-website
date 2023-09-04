@@ -35,10 +35,13 @@ export default ({ title, children, ...props }) => (
       <link rel="stylesheet" href="/code.css" />
       <link rel="stylesheet" href="/main.css" />
       <link rel="stylesheet" href="/fonts.css" />
-      {
-        /* <link rel="stylesheet" href="/daisyui.css" />
-      <link rel="stylesheet" href="/themes.css" /> */
-      }
+      {/* <link
+        rel="stylesheet"
+        type="text/css"
+        href="https://unpkg.com/@phosphor-icons/web@2.0.3/src/light/style.css"
+      /> */}
+      {/* <link rel="stylesheet" href="/daisyui.css" />
+      <link rel="stylesheet" href="/themes.css" /> */}
     </head>
     <body
       class="bg-body text-text flex flex-col justify-between min-h-screen relative"

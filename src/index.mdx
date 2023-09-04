@@ -1,47 +1,27 @@
 ---
-layout: Blog.tsx
+layout: Raw.tsx
 title: Start
 menu:
   header: true
 ---
 
-<div data-markdown="true">
-  # Aktuelles
-</div>
+<h1 class="my-8 font-thin text-5xl">Aktuelles</h1>
 
-<div data-markdown="false">
+<div>
   {search.pages("blog=true", "date=desc", 1).map((page) => (
     <a href={page.data.url}>
-    <figure class="">
-      <div class="flex justify-between flex-wrap mb-1 items-end">
-        <h2 class="text-3xl font-light text-primary dark:text-primary-dark">
-          {page.data.title}
-        </h2>
-        <span>
-          {new Date(page.data.date).toLocaleDateString("de-DE", {
-            year: "numeric",
-            month: "long",
-            day: "numeric",
-          })}
-        </span>
-      </div>
-      <div class="border-solid border-2 border-gray-600 dark:border-gray-400 no-underline">
-        {page.data.imgUrl ? (
-          <img class="w-full" src={page.data.imgUrl} />
-        ) : null}
-        <div class="m-3">{page.data.excerpt}</div>
-      </div>
-    </figure>
+      <comp.BlogListItem page={page} />
     </a>
   ))}
-  <a class="btn btn-primary mt-2" href="/blog/page/1">Zum Blog</a>
+  <a class="btn btn-primary mt-2" href="/blog/page/1">
+    Zum Blog
+  </a>
 </div>
 
-<div data-markdown="true">
-  ---
+<h1 class="my-8 font-thin text-5xl">Über uns</h1>
 
-  # Über uns
-  ## Live und Online Keynotes für zielgerichtete Zukunftsimpulse
+<div data-markdown="true">
+## Live und Online Keynotes für zielgerichtete Zukunftsimpulse
 
   <div class="flex flex-col md:flex-row flex-break">
     <div>
@@ -60,7 +40,7 @@ menu:
     ![](/media/images/lecture-g3ac5ad732_1280.webp)
 
   </div>
-
-  <a class="btn btn-primary" href="/ueber-uns">Erfahre Mehr!</a>
-
+  <a class="btn btn-primary" href="/ueber-uns">
+    Erfahre Mehr!
+  </a>
 </div>

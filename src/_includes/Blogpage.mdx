@@ -1,36 +1,16 @@
 ---
-layout: Blog.tsx
+layout: Raw.tsx
 title: Blog
 ---
 
-<div class="markdown">
-  # Blog
-</div>
+<h1 class="my-8 font-thin text-5xl">Blog</h1>
 
 <div>
   {page.data.results.map((page) => (
     <a href={page.data.url}>
-      <figure class="my-8">
-        <div class="flex justify-between flex-wrap mb-1 items-end">
-          <h2 class="text-3xl font-light text-primary dark:text-primary-dark">{page.data.title}</h2>
-            <span>
-              {new Date(page.data.date).toLocaleDateString("de-DE", {
-                year: "numeric",
-                month: "long",
-                day: "numeric",
-              })}
-            </span>
-          </div>
-        <div class="border-solid border-2 border-gray-600 dark:border-gray-400 no-underline">
-          {page.data.imgUrl ? (
-            <img class="w-full" src={page.data.imgUrl} />
-          ) : null}
-          <div class="m-3">{page.data.excerpt}</div>
-        </div>
-      </figure>
+      <comp.BlogListItem page={page} />
     </a>
-
-))}
+  ))}
 </div>
 
 <nav>
@@ -73,4 +53,6 @@ title: Blog
   </ul>
 </nav>
 
-<a class="btn btn-primary my-2" href="/feed.rss">RSS-Feed</a>
+<a class="btn btn-primary my-2" href="/feed.rss">
+  RSS-Feed
+</a>

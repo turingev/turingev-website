@@ -52,10 +52,13 @@ collections:
       - label: Layout
         name: layout
         widget: hidden
-        default: Default.tsx
+        default: Blog.tsx
       - label: Title
         name: title
         widget: string
+      - label: imgUrl
+        name: Preview Image
+        widget: image
       - label: Date
         name: date
         widget: date

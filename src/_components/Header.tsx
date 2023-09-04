@@ -1,9 +1,13 @@
 export default ({ ...props }) => (
   <>
     <header class="bg-white relative">
-      <nav class="container mx-auto py-2 flex px-4 justify-between items-center">
+      <nav class="container mx-auto flex justify-between items-center py-1">
         <a class="flex items-center" href="/">
-          <img src="/logo-300x60.webp" alt="logo" class="mx-3 h-14 py-3" />
+          <img
+            src="/Turing_eV_RGB_Logo_mit_Text_Farbe.svg"
+            alt="logo"
+            class="mx-3 h-16"
+          />
         </a>
       </nav>
     </header>

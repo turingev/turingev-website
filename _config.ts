@@ -40,7 +40,7 @@ site
           ["secondary-dark"]: colors.gray[700],
         },
         fontFamily: {
-          sans: ["Roboto", "sans-serif"],
+          sans: ["Montserrat", "sans-serif"],
         },
       },
     },
@@ -69,6 +69,14 @@ site
   .remoteFile(
     "./code.css",
     "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.8.0/build/styles/github-dark.min.css",
+  )
+  .remoteFile(
+    "./phosphor-icons-light.css",
+    "https://unpkg.com/@phosphor-icons/web@2.0.3/src/light/style.css",
+  )
+  .remoteFile(
+    "./Phosphor-Light.woff2",
+    "https://unpkg.com/@phosphor-icons/web@2.0.3/src/light/Phosphor-Light.woff2",
   )
   .remoteFile(
     "./daisyui.css",

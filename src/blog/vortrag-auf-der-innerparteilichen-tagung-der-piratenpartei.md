@@ -1,12 +1,11 @@
 ---
-layout: Default.tsx
+layout: Blog.tsx
 title: Vortrag auf der innerparteilichen Tagung der Piratenpartei
+imgUrl: /media/images/img_20230814_102536_779.jpg
 date: 2023-08-26T11:31:11.806Z
 blog: true
 excerpt: Eine Anfrage der Piratenpartei Deutschland hat unseren Dozenten Matthias Lüth nach Bremerhaven geführt. Nach zwei Tagen vor Ort, die er mit Gesprächen und Analysen verbracht hat, trug er am Sonntag seine Ergebnisse in Form eines Vortrages über die Raumsichtbarkeit vor.
 ---
-
-# Vortrag auf der innerparteilichen Tagung der Piratenpartei
 
 Eine Anfrage der Piratenpartei Deutschland hat unseren Dozenten Matthias Lüth
 nach Bremerhaven geführt. Nach zwei Tagen vor Ort, die er mit Gesprächen und
