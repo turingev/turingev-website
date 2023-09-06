@@ -1,7 +1,7 @@
 ---
 layout: Blog.tsx
 title: Vortrag über das Fediverse
-Preview Image: /media/images/img_20230906_105116_272.jpg
+Preview Image: /media/images/dscf5108.jpg
 date: 2023-09-06T07:51:22.181Z
 blog: true
 excerpt: Fediverse
