@@ -56,8 +56,8 @@ collections:
       - label: Title
         name: title
         widget: string
-      - label: imgUrl
-        name: Preview Image
+      - label: Preview Image (not shown in content)
+        name: imgUrl
         widget: image
       - label: Date
         name: date
@@ -67,7 +67,7 @@ collections:
         widget: boolean
         required: true
         default: true
-      - label: Excerpt
+      - label: Excerpt (f/e/ first paragraph)
         name: excerpt
         widget: text
       - label: Content
